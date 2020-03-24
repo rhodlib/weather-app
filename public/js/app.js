@@ -21,7 +21,9 @@
             messageOne.textContent = data.location;
             messageTwo.textContent = `
                         ${data.forecast.summary}, It is 
-                        ${data.forecast.temperature} degress out. There is a 
+                        ${data.forecast.temperature} degress out. This high today is 
+                        ${data.forecast.maxTemperature} with a low of 
+                        ${data.forecast.minTemperature}. There is a 
                         ${data.forecast.chanceToRain}% chance to rain.
                     `;
           }

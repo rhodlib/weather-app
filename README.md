@@ -2,6 +2,8 @@
 
 ## This web be made to practice NodeJS/Express/HBS and Deployment Application on Heroku
 
+* [DEMO](https://rhodlib-weather-application.herokuapp.com/)
+
 ### To run this app on local machine
 
 1. Clone this repo on your PC
