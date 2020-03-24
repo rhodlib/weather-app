@@ -1,6 +1,6 @@
 # WEATHER APP
 
-## This web be made for practice NodeJS/Express/HBS and Deployment Application on Heroku
+## This web be made to practice NodeJS/Express/HBS and Deployment Application on Heroku
 
 ### To run this app on local machine
 
